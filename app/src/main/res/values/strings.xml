@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kamus</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_title_ind_eng">IND-ENG</string>
+    <string name="tab_title_eng_ind">ENG-IND</string>
+    <string name="app_first_run">first_run</string>
+    <string name="cari_kata">Cari Kata...</string>
+    <string name="kamus">KAMUS</string>
+</resources>
